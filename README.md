@@ -16,5 +16,6 @@ My name is Avishai and I am a full-stack wev developer. My main language is Java
 ![](https://img.shields.io/badge/IDE-pycharm-informational?style=for-the-badge&logo=pycharm&logoColor=white&color=20CD86)
 ![](https://img.shields.io/badge/IDE-intellij-informational?style=for-the-badge&logo=intellij-IDEA&logoColor=white&color=E33464)
 
-## stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avishaiDV&show_icons=true&theme=vue-dark)
+## GitHub stats
+![](https://github-readme-stats.vercel.app/api?username=avishaiDV&show_icons=true&theme=vue-dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=avishaiDV&layout=compact&langs_count=8&theme=vue-dark)
