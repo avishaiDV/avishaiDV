@@ -1,6 +1,6 @@
 
 # Welcome to my universe!
-My name is Avishai and I am a full-stack wev developer. My main language is JavaScript (obviously lol).
+My name is Avishai and I am a full-stack web developer. My main language is JavaScript (obviously lol).
 
 ## languages
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7E018)
